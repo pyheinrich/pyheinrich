@@ -16,7 +16,7 @@
      @property 
      def contact(self) -> Tuple[str, str, str]: 
           
-         email    = "heinrichtorvalds@gmail.com" 
+         email = "heinrichtorvalds@gmail.com" 
   
              return proton 
   
@@ -47,7 +47,5 @@
  </p> 
      <img alt="" src="https://github-readme-stats.vercel.app/api?username=pyheinrich &theme=tokyonight&show_icons=true"> 
  </p>
-     <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/> 
- </p> 
   
  
